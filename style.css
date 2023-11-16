@@ -83,3 +83,31 @@ nav li{
     background-color: rgb(253, 110, 10);
     color: white;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    padding: 130px;
+    background-color: #FFF8F3;
+    margin: 130px 0px;
+}
+.section-title{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+.section-description{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    color:#757575;
+}
+.about-container{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
